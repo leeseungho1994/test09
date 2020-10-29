@@ -8,7 +8,6 @@
 	<a href="https://www.naver.com/" title="naver 이동">
 		<img src = "다운로드.png" width="50px" height="50px">
 	</a>
-<hr>
 
 	<a href ="https://www.naver.com/">이동하자</a> <br>
 	<a href ="https://www.naver.com/" targer="_blank">이동하자</a> <br>

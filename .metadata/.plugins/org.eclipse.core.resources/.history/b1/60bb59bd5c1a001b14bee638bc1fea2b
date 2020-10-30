@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+</head>
+<body>
+<form action="test02.html" method="get">
+	<table>
+		<tr>
+			<td>
+				<font size="4">다음 <span style="background-color:#AB9C12;"><b>내용에 맞게 입력</b></span>하시오.</font><br>
+				<!-- <font size="5">전공 분야를 입력하세요.</font> -->
+			</td>
+			<td rowspan="2">
+				<img src="다운로드.png" width="200px" height="150px">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<form>
+				<font size="4">전공 분야를 입력하세요.</font>
+					<select size='1' name='select'>
+						<option value="software">소프트웨어
+						<option value="news">신문방송학과
+						<option value="english">영문학과
+						<option value="korean">국어국문학과
+					</select>
+				</form>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				이름
+			</td>
+			<td>
+				<input type="text" name="n">
+			</td> 
+		</tr>
+		<tr>
+			<td>
+				아이디
+			</td>
+			<td>
+				<input type="text" name="id">
+			</td> 
+		</tr>
+		<tr>
+			<td>
+				비밀번호
+			</td>
+			<td>
+				<input type="text" name="pwd">
+			</td> 
+		</tr>
+		<tr>
+			<td colspan="2">
+			<fieldset style="width:500px;">
+			<legend><b>성별 조사</b></legend>
+			남성<input type = "radio" name="gender">
+			여성<input type = "radio" name="gender">
+			</fieldset>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<fieldset style="width:500px;">
+			<legend><b>취미 조사</b></legend>
+				책읽기<input type = "checkbox">
+				공부하기<input type = "checkbox">
+				책 읽으며 공부하기<input type = "checkbox">
+				컴퓨터<input type = "checkbox">
+			</fieldset>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<fieldset style="width:500px;">
+			<legend><b>하고 싶은 말</b></legend>
+				<textarea rows="3" cols="55"></textarea>
+			</fieldset>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<input type="submit" value="완료">	
+					<input type="reset" value="다시작성">
+			</td>
+		</tr>
+	</table>
+	</form>
+</body>
+</html>

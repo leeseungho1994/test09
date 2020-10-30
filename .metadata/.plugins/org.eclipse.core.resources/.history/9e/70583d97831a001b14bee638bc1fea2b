@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<h2 align="center" style="color: pink">B &nbsp; l &nbsp; o &nbsp; g</h2>
+	
+<hr>
+	<span style="color: green"><b>전체</b></span>&nbsp; 인테리어&nbsp; 어학&nbsp; 자동차&nbsp; 만화
+<hr>
+	</header>
+	
+	<section>
+		<article style="float:right;">
+				<video src="video.m4v" controls loop autoplay width="300" height="200"></video>
+		</article>
+		<article>
+			<table border="0">
+				<tr>
+					<td>
+						<img src="test1.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test2.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test3.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test4.jpg" width="100px" height="100px"> 
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="test5.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test6.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test7.jpg" width="100px" height="100px">
+					</td>
+					<td>
+						<img src="test8.jpg" width="100px" height="100px"> 
+					</td>
+				</tr>
+			</table>
+		</article>
+		<a href="">[위로 이동]</a>
+	</section>
+	<br>
+<hr>
+	<section>
+		id : 컴퓨터
+		<article style="float:right;">
+			<img src="맛집01.jpg" width="100px" height="100px">
+		</article>
+		<br>
+		<h3>겨울 제주도 여행 천백고지 부터 우도맛집 총정리!</h3>
+		안녕하세요!! 제주도 여행 정말 즐거 웠습니다. 겨울 제주도 여행을 12월쯤에 다녀 왔습니다.!! 내년에 또 다녀 오겠습니다.!!!^^
+		<br><br><a href="">[위로 이동]</a>
+	</section>
+<hr>
+	<footer>
+		<font size="2" color="green"><b><i>CARE LAB</i></b></font> <font size="2"><i>Copyright © AllRights Reserved</i></font>&nbsp;&nbsp;
+		<font size="2"> ® 1999 | 회사소개 | TEL : 777-777</font>
+	</footer>
+</body>
+</html>

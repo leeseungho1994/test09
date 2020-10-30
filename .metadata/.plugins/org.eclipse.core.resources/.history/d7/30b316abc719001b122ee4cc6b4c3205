@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body style="background-color: skyblue;">
+	<h1>HTML 연습</h1>
+	<table style="background-color: #BCE55C;" align="center" width="500">
+		<tr>
+			<th><font size="7" face="궁서체" color="blue">회사 소개</font></th>
+
+		</tr>
+		<tr>
+			<th><hr width="50%" align="center" color="blue"></th>
+		</tr>
+		<tr>
+			<td><pre><h1>	  -회사소개-
+			</h2></pre></td><td><pre>안녕하세요
+			HTML회사입니다.
+			환영합니다.
+			
+				</pre>
+				</td>
+		</tr>
+		<tr>
+			<td><ul>
+					<li><a href="https://www.naver.com/">네이버</a></li>
+					<br>
+					<li><a href="https://www.google.co.kr/">구글</a></li>
+					<br>
+					<li><a href="https://www.google.co.kr/">다음</a></li>
+				</ul></td>
+		</tr>
+		<tr>
+
+		</tr>
+	</table>
+</body>
+</html>

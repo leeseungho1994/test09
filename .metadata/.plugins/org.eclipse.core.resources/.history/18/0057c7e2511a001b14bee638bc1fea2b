@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>두번째 HTML 수업</title>
+</head>
+<body>
+	<div>첫번째 영역</div>
+	<div>두번째 영역</div>
+	<div>세번째 영역</div>
+<hr>
+	<fieldset style="width:300px;">
+		<legend><b>취미조사</b></legend>
+		책<input type = "checkbox">
+		웹툰<input type = "checkbox">
+		공부<input type = "checkbox">
+	</fieldset>
+	<hr>
+	<textarea rows="3" cols="50"></textarea>
+	<form>
+		<select size='1' name='select'>
+			<option >사과
+			<option value="배1">배
+			<option value="복숭아1">복숭아
+			<option value="수박1">수박
+		</select>
+		<button type="submit">전송</button>
+	</form>
+	<hr>
+	<form action="test01.html" method="post">
+		<input type="text" name="id" placeholder="아이디 입력"><br> 
+		<input type="text" name="pwd" placeholder="비밀번호 입력"><br> 
+		<input type="submit" value="로그인"><br> 
+		<input type="reset" value="초기화"><br> 
+		<input type="button" value="버튼"><br>
+	</form>
+	<hr>
+	책 읽기
+	<input type="checkbox"> 롤
+	<input type="checkbox" checked> 멍멍
+	<input type="checkbox">
+	<hr>
+	10대
+	<input type="radio" name="age" checked> 20대
+	<input type="radio" name="age"> 30대
+	<input type="radio" name="age">
+	<hr>
+	<input type="button" value="버튼">
+	<br>
+	<input type="submit" value="서브밋">
+	<br>
+	<input type="reset" value="reset">
+	<br>
+	<input type="text" value="직접 들어옴">
+	<br>
+	<input type="password" value="직접 들어옴">
+	<br>
+	<input type="radio">
+	<br>
+	<input type="checkbox">
+	<br>
+</body>
+</html>

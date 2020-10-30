@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+</head>
+<body>
+	<form action="test02.html">
+		<table border="1">
+			<tr>
+				<td colspan="2">다음 <span style="background-color: peru;"> <b>맞게 입력</b></span> 하시오.</td>
+				<td rowspan="2"><img src="다운로드.png" width="200px" height="150px"></td>
+			</tr>
+			<tr>
+				<td><label>전공 분야를 입력하세요.</label></td>
+			</tr>
+			<tr>
+				<td colspan="2">이름</td>
+				<td><input style="text"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

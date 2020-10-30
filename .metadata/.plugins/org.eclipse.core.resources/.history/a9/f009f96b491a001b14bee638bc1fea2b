@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>2번째</title>
+</head>
+<body>
+	<input type="button" value="버튼"><br>
+	<input type="submit" value="서브밋"><br>
+	<input type="reset" value="reset"><br>
+	<input type="text" value="직접 들어옴"><br>
+	<input type="password" value="직접 들어옴"><br>
+	<input type="radio" value=""><br>
+	<input type="checkbox" value=""><br>
+</body>
+</html>

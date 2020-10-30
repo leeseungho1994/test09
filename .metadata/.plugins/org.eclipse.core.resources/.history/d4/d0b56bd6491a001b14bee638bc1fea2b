@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>2번째</title>
+</head>
+<body>
+10대<input type="radio">
+20대<input type="radio">
+30대<input type="radio">
+	<input type="button" value="버튼"><br>
+	<input type="submit" value="서브밋"><br>
+	<input type="reset" value="reset"><br>
+	<input type="text" value="직접 들어옴"><br>
+	<input type="password" value="직접 들어옴"><br>
+	<input type="radio"><br>
+	<input type="checkbox"><br>
+</body>
+</html>

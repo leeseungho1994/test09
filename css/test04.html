@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz02</title>
+<style>
+	#wrap{margin: 0 auto; width: 800px; background-color: white;}
+	ul{ background-color: pink; padding: 10px 0px 10px 10px; overflow: hidden;
+		text-align: right;}
+	li{ list-style: none; background-color: red; text-align: center; 
+		display: inline; padding: 20px 20px 20px 20px;
+	}
+	li:focus{ background-color: #555555;}
+	a{ width: 100%; text-decoration: none; color: white}
+	
+	.h2{ color:green; }
+	input:focus{
+		background-color: red;
+	}
+</style> </head> <body>
+
+	<div id="wrap">
+		<ul>
+			<li><a href="#">1번 문제로 이동</a></li>
+			<li><a href="#">2번 문제로 이동</a></li>
+			<li><a href="#">3번 문제로 이동</a></li>
+			<li><a href="#">4번 문제로 이동</a></li>
+		</ul>
+		<img src="quiz.png" height="250px" width="100%">
+	<hr>
+		<h2>정답 확인 클릭시 정답 보여짐</h2>
+	<hr>
+		<h2 class="h2">문제 1) 정적 언어는?</h2>
+		정답 작성 <input type="text"> 정답 클릭 확인
+	</div>
+</body>
+</html>

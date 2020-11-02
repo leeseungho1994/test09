@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+	#wrap{ margin: 0 auto ; width:500px; background-color: green; }
+	h2:first-letter{ font-size: 30px; color:red; text-transform: uppercase;}
+	h3:first-line{ color: blue;}
+	b { color : white; }
+	input:focus{ background-color: red; }
+	input:checked+b.d1{  background-color: gray; }
+	input:checked+b.d2 { background-color: black; }
+	.section .swrite:focus { background-color: red; }
+	
+</style> </head> <body>
+ <!-- 보편적으로 wrap으로 묶어서 가운데로 장렬시켜서 많이 표현하고 바깥을 표현할 때는 id를 사용하고 그 안에를 묶을 때는 class로 표현해준 것이 보편적이다. -->
+	<div id="wrap">
+		<h2>test css</h2>
+		<h3>문제) 대한민국 수도는?</h3>
+		<p>정답작성 : <input type="text"></p>
+		<h2>answer</h2>
+		힌트 보기 : <input type="checkbox">
+		<b class="d1">남대문이 있는 곳이죠</b>
+		정답 보기 : <input type="checkbox">
+		<b class="d2">서울</b>
+		<section class="section">
+			클래스 : <input class="swrite" type="text">
+		</section>
+	</div>
+</body>
+</html>

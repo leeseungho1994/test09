@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CSS 2일차 Quiz1</title>
+<style type="text/css">
+
+/*해당 구역을 header side section footer로 나누어서 만든다*/
+#wrap{
+	display: flex;
+	flex-flow: column;
+	width: 60%;
+	height: 500px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+header{
+	height: 100px;
+	margin-top: 10px;
+	display: flex;
+	flex-flow: row;
+}
+h1{
+	margin-bottom: 10px;
+	margin-left: 80px;
+}
+.shadow { box-shadow: 7px 7px 15px #000000; }
+ul{ overflow: hidden; text-align: left; padding: 10px 0px 10px 50px; background-color: gray;}
+li{ list-style: none; text-align: center; display: inline; padding-left: 30px; }
+li:hover{ background-color: white; color: #cc33cc; }
+a{ text-decoration: none; color: #fff;}
+
+section{
+	height: 250px;
+	display: flex;
+	flex-flow: row;
+}
+.a {width:20%; order:1; display: flex; flex-flow: column; }
+.b {width:45%; order:2; }
+.c {width:13%; order:3; margin-top: 65px;}
+.d {width:32%; order:4; }
+.img { margin-bottom: 3px;}
+.h3 { margin-left: 10px;}
+.h4 {margin-top: 55px;}
+.h5 { margin-left: 10px;}
+.button { float: right; height: 44px; text-align: center; margin-top: 2px;}
+
+.e {color: blue; text-decoration: underline;}
+</style> </head> <body>
+
+	<div id="wrap">
+		<header>
+			<img src="맛집.png" class="shadow" width=100; height=100;>
+			<h1><i>맛집탐방 이야기 ^^</i></h1>	
+		</header>
+		<br>
+		<ul>
+		<li><a href="#">HOME</a></li>
+		<li><a href="#">게시판</a></li>
+		<li><a href="#">내정보</a></li>
+		</ul>
+		<section>
+		
+			<div class="a"> 
+				<img src="정우성.jpg" class="img" width=110; height=120;>
+				<img src="최근상품04.jpg" width=110; height=127;>  
+			</div>
+			
+			<div class="b">
+				<h3 class="h3">< 오늘의 맛집 ></h3>
+				<h5 class="h5">오늘 방문한 곳은 맛있는 음식이 나오는 집</h5>
+				<h5 class="h5">오늘 방문한 곳은 맛있는 음식이 나오는 집</h5>
+				<h5 class="h5">오늘 방문한 곳은 맛있는 음식이 나오는 집</h5>
+			</div>
+			
+			<div class="c">
+				<img src="맛집01.jpg" width=55; height=55;>
+				<img src="맛집02.jpg" width=55; height=55;>
+				<img src="맛집03.jpg" width=55; height=55;>
+			</div>
+			
+			<div class="d">
+				<input type="text" size="10">
+				<button class="button">로그인</button>
+				<input type="text" size="10">
+				<br>
+				<a href="#" class="e">회원가입</a> /
+				<a href="#" class="e">ID/PW찾기</a>
+				<h3 class="h4"> 오늘의 뉴스</h3>
+				날씨 : -32도<br>
+				미세먼지 : 농도심함
+				운세: 누구 부다 좋음
+			</div>
+		</section>
+		<footer>
+		<hr>
+			<font color="green" size="2"><b><i>CARE LAB</i></b></font> <font size="2"><i>Copyright © AllRights Reserved</i></font> &nbsp&nbsp 
+			<font size="2">® 1999 | 회사소개 | TEL : 777-777</font>
+		</footer>
+	</div>
+</body>
+</html>

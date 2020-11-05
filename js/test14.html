@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function myClick(){
+		alert("안녕하세요.환영합니다.")
+		var result = confirm("처음 방문입니까?")
+		if(result){
+			document.getElementById("myclick").innerHTML =
+				"처음 방문해 주셔서 감사합니다."
+		}else{
+			document.getElementById("myclick").innerHTML =
+				"다시 방문해 주셔서 감사합니다."
+		}
+	}
+	
+	function popup(){
+		//window.open("http://www.naver.com","_self")
+		//window.open("https://www.naver.com", "", "width=500, height=500")
+		window.open("popup.html", "", "width=500, height=500")
+	}
+	
+	function test(){ //form의 id에 제출하는 메서드를 사용해서 갈 수 있다.
+		//여기에서 입력하지 않았을 때의 if문등을 이용해서 제한을 걸 수 있다.
+		//fo.submit()
+		location.href="https://www.naver.com" //a태그와 동일한 기능하는 메서드이다. 단순 버튼을 눌렀을 때 이동하는 값
+	}
+</script> </head> <body>
+
+<!-- onclick에다가 값을 직접 넣어도 상관없다. -->
+<input type="button" value="naver" onclick="location.href='test02.html'">
+
+	<!-- submit은 무조건 값이 없어도 값을 넘겨주기 때문에  버튼을 사용해서 값을 전달해주는 것이 적절하다.-->
+	<!-- submit을 사용하면 사용자가 입력한 값을 모두 가져가게된다. -->
+	<form id="fo" action="test01.html" method="get">
+		이름<input type="text" name="n"><br>
+		주소<input type="text" name="a"><br>
+		<input type="submit" value="submit">
+		<input type="button" value="btn" onclick="test()">
+	</form>
+
+<hr>
+	<input type="button" onclick="popup()" value="팝업"><br>
+	
+<hr>
+	<input type="button" onclick="myClick()"><br>
+	<p id="myclick"></p>
+</body>
+</html>

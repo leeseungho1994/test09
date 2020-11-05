@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>2 Day</title>
+<script type="text/javascript">
+	var img
+	function add(){
+		img = document.createElement('img')
+		
+		//img.src = 'test1.jpg'; img.width = 100; img.height = 100; //.을 이용해서 직접 같을 입력할 수 있다.
+		
+		//setAttribute로 사용해서도 가능하다.
+		img.setAttribute('src', 'test1.jpg')
+		img.setAttribute('width', 100)
+		img.setAttribute('height', 100)
+		
+		//document.body.appendChild(img)
+		document.getElementById('test').appendChild(img) //append 대신 표현하는 것도 가능하다.
+	}
+	function remove(){
+		//document.body.removeChild(img)
+		document.getElementById('test').removeChild(img) //append 대신 표현하는 방법
+	}
+	
+	
+	function insertOpt(){
+		var insert = document.getElementById('insert')
+		var arr = ['야구', '축구', '배구', '농구']
+		for (i = 0; i < arr.length; i++){
+			opt = document.createElement('option') //태그를 만들어주는 메서드
+			opt.value = arr[i]
+			opt.innerHTML = arr[i]
+			insert.appendChild(opt)
+		}
+	}
+	
+	
+	function textstyle(){ //텍스트 스타일을 변경하는 메서드
+		sty = document.getElementById('msg')
+		sty.style.fontSize = "30px"
+		sty.style.fontStyle = "italic"
+	}
+	function texthidden(){ //텍스트를 숨기는 메서드
+		document.getElementById('msg').style.visibility = "hidden"
+	}
+	function textvisible(){ //텍스트를 보여주는 메서드
+		document.getElementById('msg').style.visibility = "visible"
+	}
+	
+	function clearElement(){ //텍스트를 지우는 메서드
+		document.getElementById('cl').innerHTML = ""
+	}
+	
+</script> </head>  
+<body onload="insertOpt()" id="cl"> <!-- onload는 initial같은 기능 -->
+	<input type="button" value = "BODY 하위 태그 삭제" onclick="clearElement()">
+	
+<hr>
+	<p id="msg">문서 객체 스타일 변경</p>
+	<input type="button" value = "텍스트 스타일 변경" onclick="textstyle()">
+	<input type="button" value = "텍스트 숨기기" onclick="texthidden()">
+	<input type="button" value = "텍스트 보이기" onclick="textvisible()">
+	
+<hr>
+	<p id = "test">test</p>
+	<a href="#" onclick="add()">[이미지 추가]</a>
+	<a href="#" onclick="remove()">[이미지 삭제]</a>
+	<hr>
+	<select id = "insert"></select>
+</body>
+</html>

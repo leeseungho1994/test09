@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	//id가 빈칸이면 경고창 pw가 빈칸이면 경고창 확인창이 빈칸이면 경고창
+	
+	function regi(){
+		if(document.getElementById("id") == null){
+			alert("아이디는 필수사항입니다.")
+		}else if(document.getElementById("pw") == null){
+			alert("비밀번호는 필수사항입니다.")
+		}else if(document.getElementById("pwCheck") == null){
+			alert("비밀번호 확인는 필수사항입니다.")
+		}else{
+			location.href="success.html"
+		}
+	}
+		
+	function chk(){
+		console.log(document.getElementById("pw").value);
+		if(document.getElementById("pw").value != document.getElementById("pwCheck").value){
+			document.getElementById("chkchk").innerHTML = "불일치!!"
+			document.getElementById("pw").value = ""
+			document.getElementById("pwCheck").value = ""
+			document.getElementById("pw").focus()
+		}else if(document.getElementById("pw").value == document.getElementById("pwCheck").value){
+			document.getElementById("chkchk").innerHTML = "일치"
+		}
+	}
+	
+</script> </head> <body>
+<h1>계정 등록 페이지입니다.</h1>
+<form>
+	<input type="text" id="id" placeholder="아이디">
+	<font color="red">(*필수항목)</font><br>
+	<input type="text" id="pw" placeholder="비밀번호">
+	<font color="red">(*필수항목)</font><br>
+	<input type="text" onchange="chk()" id="pwCheck" placeholder="비밀번호 확인"><font id="chkchk"></font><br>
+	<input type="text" name="name" placeholder="이름">
+<hr>
+	<input type="button" value="등록" onclick="regi()">
+</form>
+</body>
+</html>

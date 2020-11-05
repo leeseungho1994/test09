@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+</head>
+<body>
+	<script>
+		var name = prompt('당신의 이름은?')
+		var age = prompt(name + ' 님의 나이는?')
+		var addr = prompt(name + '님의 주소는?')
+		document.write("<table border='1' width='150'>");
+			document.write("<tr>")
+				document.write("<th align='center'><b>이름</b></th>");
+				document.write("<th align='center'><b>나이</b></th>");
+				document.write("<th align='center'><b>주소</b></th>");
+			document.write("</tr>");
+		
+			document.write("<tr>")
+				document.write("<th align='center'>" + name + "</th>");
+				document.write("<th align='center'>" + age + "</th>");
+				document.write("<th align='center'>" + addr + "</th>");
+			document.write("</tr>")
+		document.write("</table>")
+	</script>
+</body>
+</html>

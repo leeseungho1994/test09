@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page errorPage = "error.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>에러 확인 페이지</title>
+</head>
+<body>errorPage.jsp<br>
+	<%= 100/0 %>
+</body>
+</html>

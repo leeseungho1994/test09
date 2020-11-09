@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+<style type="text/css">
+	#remove{ display: none; width: 100px; height: 100px;}
+	#remove.a{ display: block; background-color: yellow;}
+	#remove.b{ display: block; background-color: green;}
+	#remove.c{ display: block; background-color: gray;}
+	#remove.d{ display: block; background-color: blue;}
+</style>
+<script type="text/javascript">
+
+	function init(){
+		btn1 = document.getElementById('btn1')
+		btn1.addEventListener('click', btn_action)
+		btn2 = document.getElementById('btn2')
+		btn2.addEventListener('click', btn_action)
+		btn3 = document.getElementById('btn3')
+		btn3.addEventListener('click', btn_action)
+		btn4 = document.getElementById('btn4')
+		btn4.addEventListener('click', btn_flicker)
+		del = document.getElementById('del')
+		del.addEventListener('click', blockBtn)
+	}
+	
+	function btn_action(event){
+		let remove = document.getElementById('remove')
+		
+		switch(event.target.id){
+		case 'btn1' : remove.setAttribute('class', 'a')
+		var target = document.getElementById('target').innerHTML = "버튼 1 클릭";
+		break;
+		case 'btn2' : remove.setAttribute('class', 'b')
+		target = document.getElementById('target').innerHTML = "버튼 2 클릭";
+		break;
+		case 'btn3' : remove.setAttribute('class', 'c')
+		target = document.getElementById('target').innerHTML = "버튼 3 클릭";
+		}
+	}
+	
+	function btn_flicker(event){
+		while(1){
+			let remove = document.getElementById('remove')
+			
+			switch(event.target.id){
+			case 'btn4' : remove.setAttribute('class', 'd')
+				
+			var target = document.getElementById('target').innerHTML = "버튼 4 클릭";
+			}
+			
+		}
+	}
+	
+	function blockBtn(){
+		let remove = document.getElementById('remove')
+		remove.removeAttribute('class')
+	}
+</script>
+</head>
+<body onload= "init()">
+	<input type="button" id="btn1" value="버튼1">
+	<input type="button" id="btn2" value="버튼2">
+	<input type="button" id="btn3" value="버튼3">
+	<input type="button" id="btn4" value="자동">
+	<input type="button" id="del" value="지우기">
+<br>
+	<div id="remove">
+		<h3 id="target"></h3>
+	</div>
+</body>
+</html>

@@ -7739,3 +7739,1347 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-06 09:44:35.950 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=11.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.822
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 09:45:09.823
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-06 09:45:13.525
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-06 09:45:13.525
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4619854a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c040c8d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.130
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.130
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.146
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.146
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.146
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.161
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.161
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.161
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.177
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:20.177
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-06 09:45:22.762
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.430
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.435
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.440
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.444
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.448
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.453
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.457
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.461
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.465
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:46.470
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.286
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.294
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.301
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.308
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.315
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.322
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.329
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.336
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.343
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 09:45:58.351
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.074
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.079
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.084
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.089
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.094
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.098
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.104
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.108
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.113
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:04:52.118
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.960
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.965
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.970
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.974
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.979
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.983
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.988
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.992
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:58.996
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:08:59.001
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:02.976
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:02.982
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:02.987
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:02.991
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:02.995
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:03.000
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:03.005
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:03.009
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:03.013
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:09:03.017
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.765
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.771
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.777
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.781
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.785
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.789
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.794
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.798
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.801
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:40.805
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.387
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.391
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.396
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.401
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.405
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.409
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.414
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.418
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.422
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 10:16:46.425
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.453
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.458
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.462
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.466
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.470
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.474
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.478
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.481
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.485
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:26.489
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.901
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.905
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.909
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.913
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.917
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.922
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.927
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.932
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.937
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:16:31.941
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.107
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.113
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.118
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.122
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.127
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.131
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.135
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.139
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.143
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 11:32:57.147
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.281
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.286
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.290
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.294
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.297
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.302
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.305
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.308
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.312
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:46:09.316
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.405
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.410
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.414
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.418
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.421
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.425
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.429
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.433
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.437
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:30.440
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.632
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.636
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.641
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.645
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.649
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.654
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.659
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.664
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.668
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 13:49:41.671
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.442
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.446
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.450
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.454
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.458
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.462
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.466
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.469
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.473
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:25.476
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.911
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.916
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.920
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.925
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.931
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.936
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.941
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.945
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.950
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:26:29.954
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.759
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.764
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.768
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.771
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.775
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.779
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.782
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.786
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.789
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:07.793
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.205
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.210
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.215
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.219
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.223
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.227
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.231
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.235
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.239
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 14:55:12.243
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.685
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.690
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.694
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.698
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.700
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.704
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.709
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.712
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.715
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:04.719
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.183
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.187
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.192
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.196
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.201
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.205
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.209
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.214
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.218
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:05:09.223
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.512
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.518
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.523
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.527
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.531
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.535
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.539
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.542
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.546
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:13.550
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.709
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.714
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.719
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.723
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.728
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.733
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.737
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.742
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.747
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 15:44:18.751
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.556
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.561
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.565
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.569
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.573
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.577
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.580
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.584
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.588
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:05:53.592
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.831
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.836
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.840
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.844
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.848
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.852
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.856
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.860
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.864
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:06:02.869
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.692
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.698
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.702
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.706
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.710
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.714
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.718
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.722
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.727
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:08.731
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.929
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.934
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.938
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.942
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.947
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.951
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.955
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.958
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.963
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:12.967
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.226
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.231
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.235
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.239
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.243
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.247
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.251
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.255
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.259
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:17.263
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.924
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.929
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.934
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.939
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.943
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.948
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.953
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.957
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.961
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:43:35.966
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.443
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.447
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.451
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.455
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.458
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.461
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.465
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.469
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.472
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:26.476
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.693
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.698
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.703
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.708
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.712
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.717
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.722
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.726
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.731
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 16:45:52.735
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.553
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.558
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.562
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.567
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.572
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.576
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.580
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.585
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.590
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:27.594
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.316
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.321
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.325
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.329
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.333
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.337
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.341
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.345
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.349
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 17:16:42.353
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+!SESSION 2020-11-06 18:15:24.325 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=11.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-06 18:15:29.434
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-06 18:15:30.718
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-06 18:15:30.718
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62536882,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e9d6c78,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.873
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.889
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.889
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.889
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.905
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.905
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.905
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.920
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.920
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-06 18:15:34.920
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-06 18:15:37.326
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-09 09:33:18.725 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=11.0.9
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.283
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-09 09:34:24.284
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-09 09:34:27.551
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-09 09:34:27.551
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4917992b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62536882,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.870
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.875
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.880
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.884
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.890
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.896
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.900
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.904
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.909
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-09 09:34:33.916
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-09 09:34:37.793
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
